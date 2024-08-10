@@ -1,7 +1,3 @@
-Sure, here’s a draft for your README file for the “Hacking the Admins” OSINT challenge in the KPMG CTF 2024. I’ve included sections for the challenge description, steps taken, and your solution, with a touch of emoji to make it engaging!
-
----
-
 # KPMG CTF 2024: Hacking the Admins 🕵️‍♂️🔍
 
 Welcome to my write-up for the **Hacking the Admins** OSINT challenge in the KPMG CTF 2024! 🚀 This challenge was a test of our open-source intelligence skills and was both exhilarating and challenging. Here’s a detailed walkthrough of how I cracked the challenge and secured the 200 points. 🏆
